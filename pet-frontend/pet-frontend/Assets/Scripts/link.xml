@@ -1,0 +1,5 @@
+<!-- Preserve Shift-JIS support for imported Japanese VMD bone names. -->
+<linker>
+  <assembly fullname="I18N" preserve="all" ignoreIfMissing="1" />
+  <assembly fullname="I18N.CJK" preserve="all" ignoreIfMissing="1" />
+</linker>

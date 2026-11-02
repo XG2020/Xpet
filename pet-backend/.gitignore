@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+runtime_settings.json
+.settings-*.tmp
+*.log
+.artifacts/
+conversations.sqlite3
+conversations.sqlite3-*
+memories.sqlite3
+memories.sqlite3-*
+workspace-memory/
