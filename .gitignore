@@ -20,7 +20,6 @@ skill_books/
 /pet-motions/
 
 # Local libraries: only their public guides belong in Git
-/pet-models/*
 !/pet-models/README.md
 /pet-actions/*
 !/pet-actions/README.md
@@ -39,8 +38,6 @@ __pycache__/
 htmlcov/
 *.egg-info/
 /dist/
-/Xpet-OpenSource/
-/Xpet-OpenSource.zip
 /build/
 /Xpet.exe
 /pet-backend/XpetBackend.exe
@@ -85,8 +82,6 @@ Desktop.ini
 /tools/new-model-geometry-qa.json
 
 # Model sources, converted model packages and third-party derived resources
-/model/
-/Litamodel/
 *.[fF][bB][xX]
 *.[fF][bB][xX].meta
 *.pmx
@@ -108,12 +103,8 @@ Desktop.ini
 *.vrm.meta
 *.vmd
 *.vmd.meta
-*.petmodel
-*.petmodel.meta
 *.petraw
 *.petraw.meta
-/pet-frontend/pet-frontend/Assets/Models/
-/pet-frontend/pet-frontend/Assets/Models.meta
 /pet-frontend/pet-frontend/Assets/ImportedPets/
 /pet-frontend/pet-frontend/Assets/ImportedPets.meta
 /pet-frontend/pet-frontend/Assets/Scenes/
